@@ -1,5 +1,4 @@
-# FAST API Microservice for UI5 Variant Maintenance
-
+# FAST API Microservice for UI5 Variant Management
 ## About the Project
 
 This is a demonstration of UI5 Freestyle Screen View with Variant Management handled via Python FASTAPI backend .
