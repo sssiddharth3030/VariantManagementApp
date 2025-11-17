@@ -77,7 +77,8 @@ Please ensure Python , PIP , Nodejs & NPM are installed in your system .
 
 ## Notes
 
-* FAST API 
+* FAST API
+  
   FAST API comes with inbuilt UI for open API .
   Please ensure that the open API docs are only exposed in the Development environments .
 
